@@ -2,4 +2,10 @@
 OEL Project of weather forecast
 
 <br>
-Author - Abdus Samad
+Author
+<br>
+ - Abdus Samad
+<br>
+ - Hamza Nasir
+ <br>
+-Talha Bin Sajid
