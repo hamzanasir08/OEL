@@ -1,0 +1,80 @@
+Date: 2024-01-04
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-05
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-06
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-07
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-08
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-09
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-10
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-11
+Average Temperature (C) : 14.68
+Average Temperature (F) : 58.42
+Average Humidity : 41.60%
+Average Pressure : 1019.00
+Average Wind Speed (kph) : 3.98
+
+
+Date: 2024-01-12
+Average Temperature (C) : 15.20
+Average Temperature (F) : 59.84
+Average Humidity : 59.00%
+Average Pressure : 1016.53
+Average Wind Speed (kph) : 5.09
+
+
+Date: 2024-01-13
+Average Temperature (C) : 12.36
+Average Temperature (F) : 54.50
+Average Humidity : 59.50%
+Average Pressure : 1016.00
+Average Wind Speed (kph) : 5.64
+
+

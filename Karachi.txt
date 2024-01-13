@@ -1,0 +1,1060 @@
+Date: 2024-01-08
+Condition: Mist
+Humidity: 37%
+Temperature (C): 26.0
+Temperature (F): 78.8
+Pressure: 1017.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-08
+Condition: Mist
+Humidity: 37%
+Temperature (C): 26.0
+Temperature (F): 78.8
+Pressure: 1017.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 9.0
+Wind Direction: NNE
+
+
+Date: 2024-01-09
+Condition: Mist
+Humidity: 48%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1020.0
+Wind Speed (kph): 6.8
+Wind Direction: ENE
+
+
+Date: 2024-01-09
+Condition: Sunny
+Humidity: 22%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 19.1
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Sunny
+Humidity: 22%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 19.1
+Wind Direction: NE
+
+
+Date: 2024-01-09
+Condition: Sunny
+Humidity: 18%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 25.9
+Wind Direction: NE
+
+
+Date: 2024-01-10
+Condition: Overcast
+Humidity: 30%
+Temperature (C): 19.0
+Temperature (F): 66.2
+Pressure: 1022.0
+Wind Speed (kph): 11.2
+Wind Direction: NNE
+
+
+Date: 2024-01-10
+Condition: Overcast
+Humidity: 30%
+Temperature (C): 19.0
+Temperature (F): 66.2
+Pressure: 1022.0
+Wind Speed (kph): 11.2
+Wind Direction: NNE
+
+
+Date: 2024-01-10
+Condition: Sunny
+Humidity: 19%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 15.1
+Wind Direction: ENE
+
+
+Date: 2024-01-10
+Condition: Sunny
+Humidity: 19%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 15.1
+Wind Direction: ENE
+
+
+Date: 2024-01-10
+Condition: Sunny
+Humidity: 19%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 15.1
+Wind Direction: ENE
+
+
+Date: 2024-01-10
+Condition: Sunny
+Humidity: 19%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 15.1
+Wind Direction: ENE
+
+
+Date: 2024-01-10
+Condition: Sunny
+Humidity: 19%
+Temperature (C): 24.0
+Temperature (F): 75.2
+Pressure: 1020.0
+Wind Speed (kph): 15.1
+Wind Direction: ENE
+
+
+Date: 2024-01-10
+Condition: Clear
+Humidity: 44%
+Temperature (C): 14.0
+Temperature (F): 57.2
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-10
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-10
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-10
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 41%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1019.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 47%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Clear
+Humidity: 44%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: NW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: NW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: NW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: NW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: NW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: WNW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 3.6
+Wind Direction: WNW
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Mist
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1019.0
+Wind Speed (kph): 6.1
+Wind Direction: N
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-11
+Condition: Sunny
+Humidity: 21%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1018.0
+Wind Speed (kph): 6.8
+Wind Direction: NNW
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 11.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 15.0
+Temperature (F): 59.0
+Pressure: 1017.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-12
+Condition: Overcast
+Humidity: 59%
+Temperature (C): 16.0
+Temperature (F): 60.8
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 55%
+Temperature (C): 14.0
+Temperature (F): 57.2
+Pressure: 1016.0
+Wind Speed (kph): 11.2
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 13.0
+Temperature (F): 55.4
+Pressure: 1016.0
+Wind Speed (kph): 6.8
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 6.1
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 58%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 6.1
+Wind Direction: NE
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 10.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Overcast
+Humidity: 62%
+Temperature (C): 12.0
+Temperature (F): 53.6
+Pressure: 1016.0
+Wind Speed (kph): 3.6
+Wind Direction: N
+
+
+Date: 2024-01-13
+Condition: Partly cloudy
+Humidity: 36%
+Temperature (C): 25.0
+Temperature (F): 77.0
+Pressure: 1016.0
+Wind Speed (kph): 13.0
+Wind Direction: W
+
+
+Date: 2024-01-13
+Condition: Partly cloudy
+Humidity: 32%
+Temperature (C): 26.0
+Temperature (F): 78.8
+Pressure: 1015.0
+Wind Speed (kph): 16.9
+Wind Direction: W
+
+
+Date: 2024-01-13
+Condition: Sunny
+Humidity: 28%
+Temperature (C): 26.0
+Temperature (F): 78.8
+Pressure: 1015.0
+Wind Speed (kph): 16.9
+Wind Direction: W
+
+
