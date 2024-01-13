@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /home/abdussamad/Desktop/VSCode/
 #Compiling all the C files
 gcc -c send_email.c -o send_email.o
 gcc -c convert_from_json.c -o convert_from_json.o
